@@ -95,19 +95,21 @@ Building my foundation through practical data analysis, programming exercises, a
 ---
 
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muneeb-Fayaz&show_icons=true&theme=tokyonight&hide_border=true" alt="Muneeb's GitHub Stats"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Most Used Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-Fayaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 
-<br/>
+<br/><br/>
 
-<img width="95%" src="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img width="95%" src="https://streak-stats.demolab.com/?user=Muneeb-Fayaz&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
+
 
 ---
 

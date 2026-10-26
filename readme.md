@@ -1,199 +1,249 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=230&section=header&text=MUNEEB%20FAYAZ&fontSize=58&fontColor=22d3ee&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20Enthusiast%20%E2%80%A2%20Aspiring%20AI%20Engineer&descSize=17&descAlignY=60&descColor=c4b5fd&animation=fadeIn" width="100%" alt="Muneeb Fayaz"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&height=40&lines=Building+Ideas+Into+Web+Experiences;Exploring+Cloud+With+AWS;Turning+Data+Into+Insights;Learning+AI+Engineering+Step+By+Step" alt="Typing animation"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/muneeb-fayaz-0440823a4"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Muneeb-Fayaz"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://kashmirkissansewa.netlify.app/"><img src="https://img.shields.io/badge/Live_Project-Kisan_Saathi-22d3ee?style=for-the-badge&logo=netlify&logoColor=0f172a" alt="Project"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Muneeb-Fayaz&style=flat-square&color=22d3ee&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Muneeb-Fayaz?style=flat-square&color=a78bfa&label=FOLLOWERS&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMuneeb-Fayaz&query=%24.public_repos&label=PUBLIC%20REPOS&style=flat-square&color=f472b6&logo=github" alt="Repos"/>
-
-</div>
-
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=56&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20ABOUT%20ME&fontSize=24&fontColor=22d3ee&stroke=22d3ee&strokeWidth=1" width="100%" alt="About me"/></div>
+<!-- =========================================================
+     MUNEEB FAYAZ | GITHUB PROFILE README
+     Theme: Midnight Navy / Cyan / Violet accent
+     Self-contained: no /assets folder needed
+========================================================== -->
 
 <div align="center">
 
-Hey there! I'm **Muneeb Fayaz**, a developer passionate about technology, problem-solving
-and building things that make a difference.
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:080D18,50:0E7490,100:080D18&height=230&section=header&text=MUNEEB%20FAYAZ&fontSize=54&fontColor=E2F3FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Cloud%20Enthusiast%20%C2%B7%20Aspiring%20AI%20Engineer&descAlignY=60&descSize=16&animation=fadeIn"
+    width="100%"
+    alt="Muneeb Fayaz - Full Stack Developer, Cloud Enthusiast, Aspiring AI Engineer"
+  />
 
-<br/>
+  <a href="https://github.com/Muneeb-Fayaz">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&height=48&lines=Building+ideas+into+web+experiences;Exploring+the+cloud+with+AWS;Turning+data+into+insights;Learning+AI+engineering+step+by+step"
+      alt="Typing animation: building web experiences, exploring AWS, learning AI engineering"
+    />
+  </a>
 
-<table width="100%">
-<tr>
-<td align="center" width="33%"><h3>💻</h3><b>Full Stack Web</b><br/><sub>Building complete web apps</sub></td>
-<td align="center" width="33%"><h3>☁️</h3><b>Cloud &amp; AWS</b><br/><sub>Exploring cloud computing</sub></td>
-<td align="center" width="33%"><h3>📊</h3><b>Data Analysis</b><br/><sub>Insights from real data</sub></td>
-</tr>
-<tr>
-<td align="center" width="33%"><h3>🤖</h3><b>AI Engineering</b><br/><sub>My current transition</sub></td>
-<td align="center" width="33%"><h3>🧠</h3><b>Python &amp; ML</b><br/><sub>Strengthening fundamentals</sub></td>
-<td align="center" width="33%"><h3>🚀</h3><b>Practical Projects</b><br/><sub>Consistent learning</sub></td>
-</tr>
-</table>
+  <p>
+    <img src="https://img.shields.io/badge/FULL_STACK-BUILDING-38BDF8?style=flat-square&logo=react&logoColor=white" alt="Full stack: building"/>
+    <img src="https://img.shields.io/badge/AWS-EXPLORING-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS: exploring"/>
+    <img src="https://img.shields.io/badge/PYTHON-LEARNING-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python: learning"/>
+    <img src="https://img.shields.io/badge/AI_ENGINEERING-NEXT-A78BFA?style=flat-square" alt="Next: AI engineering"/>
+  </p>
 
-<br/>
-
-<i>💡 I don't just want to use technology — I want to understand it, build with it,<br/>and create something meaningful.</i>
-
-</div>
-
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=56&text=%E2%9A%A1%20TECH%20UNIVERSE&fontSize=24&fontColor=22d3ee&stroke=a78bfa&strokeWidth=1" width="100%" alt="Tech universe"/></div>
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<th width="33%">🌐 Web Development</th>
-<th width="33%">☁️ Cloud &amp; Databases</th>
-<th width="33%">📊 Data &amp; Tools</th>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=dark&perline=3" alt="Web"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=aws,firebase,mysql,mongodb&theme=dark&perline=2" alt="Cloud"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python,numpy,pandas,git,github,vscode&theme=dark&perline=3" alt="Data"/></td>
-</tr>
-</table>
-
-<br/>
-
-**🤖 My next frontier: AI Engineering**
-
-<img src="https://img.shields.io/badge/Python-Foundations-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Machine_Learning-Learning-0EA5E9?style=for-the-badge" alt="ML"/>
-<img src="https://img.shields.io/badge/Deep_Learning-Exploring-FF6F00?style=for-the-badge" alt="DL"/>
-<img src="https://img.shields.io/badge/Generative_AI-Next_Goal-8A2BE2?style=for-the-badge" alt="GenAI"/>
-
-<sub>Combining software development, cloud and AI to build intelligent real-world applications.</sub>
+  <p>
+    <a href="https://github.com/Muneeb-Fayaz?tab=repositories">
+      <img src="https://img.shields.io/badge/MY_REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="My repositories"/>
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/muneeb-fayaz-0440823a4">
+      <img src="https://img.shields.io/badge/SAY_HI_ON_LINKEDIN-123B55?style=for-the-badge&logo=linkedin&logoColor=white" alt="Say hi on LinkedIn"/>
+    </a>
+  </p>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D18,50:0E7490,100:080D18&height=2" width="100%" alt=""/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=56&text=%F0%9F%9A%80%20PROJECTS&fontSize=24&fontColor=22d3ee&stroke=f472b6&strokeWidth=1" width="100%" alt="Projects"/></div>
+## About Me
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
+I'm a developer who likes to understand how things work, then build with them. I work on full stack web projects, I'm exploring cloud computing with AWS, and I'm moving step by step towards **AI Engineering** by strengthening my Python, machine learning and AI fundamentals.
 
-<h3>🌾 Kashmir Kisan Saathi</h3>
+| | |
+|:--|:--|
+| **Focus** | Full stack web development |
+| **Exploring** | Cloud computing and AWS |
+| **Interests** | Data analysis, machine learning, building useful products |
+| **Approach** | Practical projects, consistent learning, continuous improvement |
+| **Current focus** | Python, machine learning and AI fundamentals |
 
-A farmer-focused platform connecting farmers with buyers and agricultural services.
+> *I don't just want to use technology. I want to understand it, build with it, and create something meaningful.*
 
-<img src="https://img.shields.io/badge/Web_Dev-22d3ee?style=flat-square" alt="Web Dev"/>
-<img src="https://img.shields.io/badge/Accessibility-a78bfa?style=flat-square" alt="Accessibility"/>
-<img src="https://img.shields.io/badge/Digital_Agriculture-f472b6?style=flat-square" alt="Digital Agriculture"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D18,50:0E7490,100:080D18&height=2" width="100%" alt=""/>
 
-<br/><br/>
-
-<a href="https://kashmirkissansewa.netlify.app/"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-%E2%86%92-22d3ee?style=for-the-badge&logo=netlify&logoColor=0f172a&labelColor=0f172a" alt="Explore Kashmir Kisan Saathi"/></a>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<h3>🎮 Gaming Website</h3>
-
-A personal gaming site inspired by my passion for gaming and creative web experiences.
-
-<img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-<img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-
-<br/><br/>
-
-<a href="https://muneebfayazgamingweb.netlify.app/"><img src="https://img.shields.io/badge/VISIT_WEBSITE-%E2%86%92-a78bfa?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0f172a" alt="Visit Gaming Website"/></a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-📈 <b>Data Analysis &amp; AI Projects</b> — <sub>building my foundation now, more experiments coming as I grow 🌱</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=56&text=%F0%9F%93%8A%20GITHUB%20ANALYTICS&fontSize=24&fontColor=22d3ee&stroke=22d3ee&strokeWidth=1" width="100%" alt="GitHub analytics"/></div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Muneeb-Fayaz&hide_border=false&border_radius=16&background=0f172a&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&currStreakNum=ffffff&sideLabels=a78bfa&sideNums=ffffff&dates=94a3b8&stroke=1e293b&border=1e293b" width="100%" alt="Contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muneeb-Fayaz&bg_color=0f172a&color=22d3ee&line=a78bfa&point=f472b6&area=true&area_color=a78bfa&hide_border=true&radius=16" width="100%" alt="Contribution graph"/>
-
-</div>
-
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=56&text=%F0%9F%8E%AF%20THE%20ROAD%20AHEAD&fontSize=24&fontColor=22d3ee&stroke=fbbf24&strokeWidth=1" width="100%" alt="The road ahead"/></div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PROGRESS-2_of_6_milestones-22d3ee?style=for-the-badge&labelColor=0f172a" alt="Progress"/>
-
-</div>
-
-<br/>
+## Learning Journey
 
 ```mermaid
-flowchart TD
-    A["✅ 01 · Start building real-world web projects"] --> B["✅ 02 · Explore cloud technologies & data analysis"]
-    B --> C["🔄 03 · Strengthen Python & core programming"]
-    C --> D["⏳ 04 · Master machine learning fundamentals"]
-    D --> E["🎯 05 · Build & deploy AI-powered applications"]
-    E --> F["🏆 06 · Grow into a skilled AI Engineer"]
+flowchart LR
+    A["Web<br/>Projects"] --> B["Cloud &<br/>Data"] --> C["Python"] --> D["Machine<br/>Learning"] --> E["AI<br/>Apps"] --> F["AI<br/>Engineer"]
 
-    classDef done fill:#0e7490,stroke:#22d3ee,color:#fff,stroke-width:2px
-    classDef now fill:#6d28d9,stroke:#c4b5fd,color:#fff,stroke-width:3px
-    classDef next fill:#1e293b,stroke:#64748b,color:#e2e8f0,stroke-dasharray:5 5
-    classDef goal fill:#b45309,stroke:#fde68a,color:#fff,stroke-width:3px
+    classDef done fill:#0E7490,stroke:#38BDF8,color:#fff,stroke-width:2px
+    classDef now fill:#6D28D9,stroke:#C4B5FD,color:#fff,stroke-width:3px
+    classDef next fill:#0F172A,stroke:#475569,color:#CBD5E1,stroke-dasharray:4 4
+    classDef goal fill:#B45309,stroke:#FDE68A,color:#fff,stroke-width:3px
     class A,B done
     class C now
     class D,E next
     class F goal
 ```
 
-<table width="100%">
-<tr><th width="10%">Step</th><th>Milestone</th><th width="22%">Status</th></tr>
-<tr><td align="center"><b>01</b></td><td>Start building real-world web projects</td><td align="center"><img src="https://img.shields.io/badge/DONE-22d3ee?style=flat-square" alt="Done"/></td></tr>
-<tr><td align="center"><b>02</b></td><td>Explore cloud technologies &amp; data analysis</td><td align="center"><img src="https://img.shields.io/badge/DONE-22d3ee?style=flat-square" alt="Done"/></td></tr>
-<tr><td align="center"><b>03</b></td><td>Strengthen Python &amp; core programming</td><td align="center"><img src="https://img.shields.io/badge/IN_PROGRESS-a78bfa?style=flat-square" alt="In progress"/></td></tr>
-<tr><td align="center"><b>04</b></td><td>Master machine learning fundamentals</td><td align="center"><img src="https://img.shields.io/badge/UP_NEXT-64748b?style=flat-square" alt="Up next"/></td></tr>
-<tr><td align="center"><b>05</b></td><td>Build &amp; deploy AI-powered applications</td><td align="center"><img src="https://img.shields.io/badge/PLANNED-64748b?style=flat-square" alt="Planned"/></td></tr>
-<tr><td align="center"><b>06</b></td><td>Grow into a skilled AI Engineer</td><td align="center"><img src="https://img.shields.io/badge/ULTIMATE_GOAL-fbbf24?style=flat-square" alt="Goal"/></td></tr>
-</table>
+| Covered so far | Practising now |
+|:--|:--|
+| Full stack web development basics | Python fundamentals and core programming |
+| Frontend with HTML, CSS, JavaScript and React | Data analysis with NumPy and Pandas |
+| Backend with Node.js and Express | Machine learning concepts |
+| Databases: MySQL, MongoDB and Firebase | Problem-solving and cleaner code |
+| Two live projects deployed on Netlify | Preparing for AI-powered projects |
 
-<br/>
+<details>
+<summary><b>See the full roadmap</b></summary>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=56&text=%F0%9F%A4%9D%20LET'S%20CONNECT&fontSize=24&fontColor=22d3ee&stroke=a78bfa&strokeWidth=1" width="100%" alt="Let's connect"/></div>
+<br>
+
+| Stage | Learning Area | Status |
+|:--|:--|:--|
+| 01 | Real-world web projects | Completed |
+| 02 | Cloud technologies and data analysis | Completed |
+| 03 | Python and core programming skills | **In progress** |
+| 04 | Machine learning fundamentals | Up next |
+| 05 | Build and deploy AI-powered applications | Planned |
+| 06 | Grow into a skilled AI Engineer | Long-term goal |
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D18,50:0E7490,100:080D18&height=2" width="100%" alt=""/>
+
+## Tech Stack
 
 <div align="center">
 
-Have an idea, a project to collaborate on, or an opportunity to discuss?
-**Let's connect and create something meaningful.**
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Web development</b><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=dark&perline=3" alt="HTML, CSS, JavaScript, React, Node.js, Express"/><br><br>
+      <sub>HTML · CSS · JavaScript<br>React · Node.js · Express</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>Cloud and databases</b><br><br>
+      <img src="https://skillicons.dev/icons?i=aws,firebase,mysql,mongodb&theme=dark&perline=2" alt="AWS, Firebase, MySQL, MongoDB"/><br><br>
+      <sub>AWS · Firebase<br>MySQL · MongoDB</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>Data and tools</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,numpy,pandas,git,github,vscode&theme=dark&perline=3" alt="Python, NumPy, Pandas, Git, GitHub, VS Code"/><br><br>
+      <sub>Python · NumPy · Pandas<br>Git · GitHub · VS Code</sub>
+    </td>
+  </tr>
+</table>
 
-<br/>
+<br>
 
-<a href="https://www.linkedin.com/in/muneeb-fayaz-0440823a4"><img src="https://img.shields.io/badge/LinkedIn-Muneeb_Fayaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-<a href="https://github.com/Muneeb-Fayaz"><img src="https://img.shields.io/badge/GitHub-Muneeb--Fayaz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+**My next frontier: AI Engineering**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=140&section=footer&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20INNOVATE&fontSize=22&fontColor=22d3ee&fontAlignY=68&desc=Always%20learning.%20Always%20building.%20Always%20moving%20forward.&descSize=13&descAlignY=88&descColor=c4b5fd" width="100%" alt="Build, Learn, Innovate"/>
+<img src="https://img.shields.io/badge/Python-Foundations-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Machine_Learning-Learning-0EA5E9?style=for-the-badge" alt="Machine learning"/>
+<img src="https://img.shields.io/badge/Deep_Learning-Exploring-FF6F00?style=for-the-badge" alt="Deep learning"/>
+<img src="https://img.shields.io/badge/Generative_AI-Next_Goal-8A2BE2?style=for-the-badge" alt="Generative AI"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D18,50:0E7490,100:080D18&height=2" width="100%" alt=""/>
+
+## Selected Work
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3>Kashmir Kisan Saathi</h3>
+      <sub>A farmer-focused platform connecting farmers with buyers and agricultural services.</sub><br><br>
+      <img src="https://img.shields.io/badge/Web_Dev-0E7490?style=flat-square" alt="Web development"/>
+      <img src="https://img.shields.io/badge/Accessibility-0E7490?style=flat-square" alt="Accessibility"/>
+      <img src="https://img.shields.io/badge/Digital_Agriculture-0E7490?style=flat-square" alt="Digital agriculture"/><br><br>
+      <a href="https://kashmirkissansewa.netlify.app/">
+        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-123B55?style=for-the-badge&logo=netlify&logoColor=white" alt="Explore Kashmir Kisan Saathi"/>
+      </a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3>Gaming Website</h3>
+      <sub>A personal gaming site inspired by my passion for gaming and creative web experiences.</sub><br><br>
+      <img src="https://img.shields.io/badge/HTML-0E7490?style=flat-square" alt="HTML"/>
+      <img src="https://img.shields.io/badge/CSS-0E7490?style=flat-square" alt="CSS"/>
+      <img src="https://img.shields.io/badge/JavaScript-0E7490?style=flat-square" alt="JavaScript"/><br><br>
+      <a href="https://muneebfayazgamingweb.netlify.app/">
+        <img src="https://img.shields.io/badge/VISIT_WEBSITE-123B55?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit the gaming website"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <b>Next up:</b> <sub>data analysis and AI projects, built as I learn. More coming soon.</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<a href="https://github.com/Muneeb-Fayaz?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_MY_REPOSITORIES-123B55?style=for-the-badge&logo=github&logoColor=white" alt="Explore all my repositories"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D18,50:0E7490,100:080D18&height=2" width="100%" alt=""/>
+
+## Goals
+
+| Short-term | Long-term |
+|:--|:--|
+| Strengthen Python and core programming skills | Grow into a skilled AI Engineer |
+| Master machine learning fundamentals | Build and deploy AI-powered applications |
+| Keep building and publishing projects | Combine software, cloud and AI in real-world products |
+| Turn data analysis into real projects | Build intelligent applications independently |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D18,50:0E7490,100:080D18&height=2" width="100%" alt=""/>
+
+## GitHub Activity
+
+<div align="center">
+
+<sub>Cards refresh on their own schedule, so new activity can take a few hours to appear.</sub>
+
+<br><br>
+
+<a href="https://github.com/Muneeb-Fayaz">
+  <img
+    src="https://streak-stats.demolab.com/?user=Muneeb-Fayaz&hide_border=true&background=0B1120&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&date_format=M%20j%5B%2C%20Y%5D&v=2"
+    width="75%"
+    alt="GitHub contribution streak"
+  />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Muneeb-Fayaz">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Muneeb-Fayaz&bg_color=0B1120&color=38BDF8&line=0E7490&point=E2F3FF&area=true&area_color=0E7490&hide_border=true"
+    width="90%"
+    alt="GitHub contribution graph"
+  />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D18,50:0E7490,100:080D18&height=2" width="100%" alt=""/>
+
+<div align="center">
+
+## Connect With Me
+
+<p>
+  I'm always interested in learning, building useful things, and meeting people who enjoy technology.
+</p>
+
+<a href="https://github.com/Muneeb-Fayaz">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/muneeb-fayaz-0440823a4">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br><br>
+
+### Build. Learn. Innovate. Always moving forward.
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0E7490,100:0B1120&height=115&section=footer"
+  width="100%"
+  alt=""
+/>
 
 </div>

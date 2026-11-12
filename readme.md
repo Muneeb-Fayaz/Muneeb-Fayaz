@@ -12,10 +12,10 @@
   <a href="https://www.linkedin.com/in/muneeb-fayaz-0440823a4">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/Muneeb-Fayaz">
     <img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Muneeb-Fayaz&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 </div>
@@ -94,22 +94,19 @@ Building my foundation through practical data analysis, programming exercises, a
 
 ---
 
-
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muneeb-Fayaz&show_icons=true&theme=tokyonight&hide_border=true" alt="Muneeb's GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muneeb-Fayaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Muneeb's GitHub Stats"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-Fayaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img width="95%" src="https://streak-stats.demolab.com/?user=Muneeb-Fayaz&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img width="95%" src="https://streak-stats.demolab.com/?user=Muneeb-Fayaz&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Contribution Streak"/>
 
 </div>
-
 
 ---
 

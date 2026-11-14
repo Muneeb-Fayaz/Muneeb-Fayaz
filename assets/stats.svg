@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="215" viewBox="0 0 495 215" role="img" aria-label="GitHub stats">
+  <title>GitHub stats</title>
+  <defs></defs>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .t { fill: #70a5fd; font-size: 18px; font-weight: 600; }
+    .l { fill: #a9b1d6; font-size: 13px; }
+    .v { fill: #38bdae; font-size: 14px; font-weight: 700; }
+  </style>
+  <rect x="0.5" y="0.5" rx="6" width="494" height="214" fill="#1a1b27" stroke="#2a2c3f"/>
+  <text x="25" y="35" class="t">Muneeb Fayaz's GitHub Stats</text>
+  <circle cx="30" cy="64" r="3.5" fill="#bf91f3"/>
+  <text x="44" y="68" class="l">Total Stars Earned</text>
+  <text x="470" y="68" class="v" text-anchor="end">123</text>
+  <circle cx="30" cy="90" r="3.5" fill="#bf91f3"/>
+  <text x="44" y="94" class="l">Total Commits</text>
+  <text x="470" y="94" class="v" text-anchor="end">165</text>
+  <circle cx="30" cy="116" r="3.5" fill="#bf91f3"/>
+  <text x="44" y="120" class="l">Pull Requests</text>
+  <text x="470" y="120" class="v" text-anchor="end">0</text>
+  <circle cx="30" cy="142" r="3.5" fill="#bf91f3"/>
+  <text x="44" y="146" class="l">Issues Opened</text>
+  <text x="470" y="146" class="v" text-anchor="end">0</text>
+  <circle cx="30" cy="168" r="3.5" fill="#bf91f3"/>
+  <text x="44" y="172" class="l">Code Reviews</text>
+  <text x="470" y="172" class="v" text-anchor="end">0</text>
+  <circle cx="30" cy="194" r="3.5" fill="#bf91f3"/>
+  <text x="44" y="198" class="l">Repositories</text>
+  <text x="470" y="198" class="v" text-anchor="end">68  (10 private)</text>
+</svg>

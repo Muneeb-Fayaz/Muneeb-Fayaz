@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="215" viewBox="0 0 495 215" role="img" aria-label="Most used languages">
+  <title>Most used languages</title>
+  <defs></defs>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .t { fill: #70a5fd; font-size: 18px; font-weight: 600; }
+    .l { fill: #a9b1d6; font-size: 13px; }
+    .v { fill: #38bdae; font-size: 14px; font-weight: 700; }
+  </style>
+  <rect x="0.5" y="0.5" rx="6" width="494" height="214" fill="#1a1b27" stroke="#2a2c3f"/>
+  <text x="25" y="35" class="t">Most Used Languages</text>
+  <clipPath id="bar"><rect x="25" y="52" width="445" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#bar)">
+    <rect x="25.0" y="52" width="186.1" height="10" fill="#e34c26"/>
+    <rect x="210.6" y="52" width="133.1" height="10" fill="#3572A5"/>
+    <rect x="343.2" y="52" width="57.5" height="10" fill="#f1e05a"/>
+    <rect x="400.2" y="52" width="57.0" height="10" fill="#663399"/>
+    <rect x="456.7" y="52" width="12.2" height="10" fill="#4F5D95"/>
+    <rect x="468.4" y="52" width="2.0" height="10" fill="#DA5B0B"/>
+    <rect x="469.9" y="52" width="0.6" height="10" fill="#15dcdc"/>
+    <rect x="470.0" y="52" width="0.5" height="10" fill="#565f89"/>
+  </g>
+  <circle cx="30" cy="88" r="5" fill="#e34c26"/>
+  <text x="42" y="92" class="l">HTML</text>
+  <text x="230" y="92" class="v" text-anchor="end">41.7%</text>
+  <circle cx="255" cy="88" r="5" fill="#3572A5"/>
+  <text x="267" y="92" class="l">Python</text>
+  <text x="455" y="92" class="v" text-anchor="end">29.8%</text>
+  <circle cx="30" cy="116" r="5" fill="#f1e05a"/>
+  <text x="42" y="120" class="l">JavaScript</text>
+  <text x="230" y="120" class="v" text-anchor="end">12.8%</text>
+  <circle cx="255" cy="116" r="5" fill="#663399"/>
+  <text x="267" y="120" class="l">CSS</text>
+  <text x="455" y="120" class="v" text-anchor="end">12.7%</text>
+  <circle cx="30" cy="144" r="5" fill="#4F5D95"/>
+  <text x="42" y="148" class="l">PHP</text>
+  <text x="230" y="148" class="v" text-anchor="end">2.6%</text>
+  <circle cx="255" cy="144" r="5" fill="#DA5B0B"/>
+  <text x="267" y="148" class="l">Jupyter Notebook</text>
+  <text x="455" y="148" class="v" text-anchor="end">0.3%</text>
+  <circle cx="30" cy="172" r="5" fill="#15dcdc"/>
+  <text x="42" y="176" class="l">VBScript</text>
+  <text x="230" y="176" class="v" text-anchor="end">0.0%</text>
+  <circle cx="255" cy="172" r="5" fill="#565f89"/>
+  <text x="267" y="176" class="l">Other</text>
+  <text x="455" y="176" class="v" text-anchor="end">0.0%</text>
+</svg>

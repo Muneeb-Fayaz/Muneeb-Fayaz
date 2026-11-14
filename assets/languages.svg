@@ -11,30 +11,30 @@
   <text x="25" y="35" class="t">Most Used Languages</text>
   <clipPath id="bar"><rect x="25" y="52" width="445" height="10" rx="5"/></clipPath>
   <g clip-path="url(#bar)">
-    <rect x="25.0" y="52" width="186.1" height="10" fill="#e34c26"/>
-    <rect x="210.6" y="52" width="133.1" height="10" fill="#3572A5"/>
-    <rect x="343.2" y="52" width="57.5" height="10" fill="#f1e05a"/>
-    <rect x="400.2" y="52" width="57.0" height="10" fill="#663399"/>
-    <rect x="456.7" y="52" width="12.2" height="10" fill="#4F5D95"/>
-    <rect x="468.4" y="52" width="2.0" height="10" fill="#DA5B0B"/>
+    <rect x="25.0" y="52" width="175.8" height="10" fill="#e34c26"/>
+    <rect x="200.3" y="52" width="152.0" height="10" fill="#3572A5"/>
+    <rect x="351.8" y="52" width="53.6" height="10" fill="#f1e05a"/>
+    <rect x="404.9" y="52" width="53.2" height="10" fill="#663399"/>
+    <rect x="457.6" y="52" width="11.4" height="10" fill="#4F5D95"/>
+    <rect x="468.5" y="52" width="1.9" height="10" fill="#DA5B0B"/>
     <rect x="469.9" y="52" width="0.6" height="10" fill="#15dcdc"/>
     <rect x="470.0" y="52" width="0.5" height="10" fill="#565f89"/>
   </g>
   <circle cx="30" cy="88" r="5" fill="#e34c26"/>
   <text x="42" y="92" class="l">HTML</text>
-  <text x="230" y="92" class="v" text-anchor="end">41.7%</text>
+  <text x="230" y="92" class="v" text-anchor="end">39.4%</text>
   <circle cx="255" cy="88" r="5" fill="#3572A5"/>
   <text x="267" y="92" class="l">Python</text>
-  <text x="455" y="92" class="v" text-anchor="end">29.8%</text>
+  <text x="455" y="92" class="v" text-anchor="end">34.0%</text>
   <circle cx="30" cy="116" r="5" fill="#f1e05a"/>
   <text x="42" y="120" class="l">JavaScript</text>
-  <text x="230" y="120" class="v" text-anchor="end">12.8%</text>
+  <text x="230" y="120" class="v" text-anchor="end">11.9%</text>
   <circle cx="255" cy="116" r="5" fill="#663399"/>
   <text x="267" y="120" class="l">CSS</text>
-  <text x="455" y="120" class="v" text-anchor="end">12.7%</text>
+  <text x="455" y="120" class="v" text-anchor="end">11.8%</text>
   <circle cx="30" cy="144" r="5" fill="#4F5D95"/>
   <text x="42" y="148" class="l">PHP</text>
-  <text x="230" y="148" class="v" text-anchor="end">2.6%</text>
+  <text x="230" y="148" class="v" text-anchor="end">2.5%</text>
   <circle cx="255" cy="144" r="5" fill="#DA5B0B"/>
   <text x="267" y="148" class="l">Jupyter Notebook</text>
   <text x="455" y="148" class="v" text-anchor="end">0.3%</text>

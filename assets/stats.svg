@@ -11,10 +11,10 @@
   <text x="25" y="35" class="t">Muneeb Fayaz's GitHub Stats</text>
   <circle cx="30" cy="64" r="3.5" fill="#bf91f3"/>
   <text x="44" y="68" class="l">Total Stars Earned</text>
-  <text x="470" y="68" class="v" text-anchor="end">123</text>
+  <text x="470" y="68" class="v" text-anchor="end">124</text>
   <circle cx="30" cy="90" r="3.5" fill="#bf91f3"/>
   <text x="44" y="94" class="l">Total Commits</text>
-  <text x="470" y="94" class="v" text-anchor="end">165</text>
+  <text x="470" y="94" class="v" text-anchor="end">166</text>
   <circle cx="30" cy="116" r="3.5" fill="#bf91f3"/>
   <text x="44" y="120" class="l">Pull Requests</text>
   <text x="470" y="120" class="v" text-anchor="end">0</text>
@@ -26,5 +26,5 @@
   <text x="470" y="172" class="v" text-anchor="end">0</text>
   <circle cx="30" cy="194" r="3.5" fill="#bf91f3"/>
   <text x="44" y="198" class="l">Repositories</text>
-  <text x="470" y="198" class="v" text-anchor="end">68  (10 private)</text>
+  <text x="470" y="198" class="v" text-anchor="end">69  (11 private)</text>
 </svg>
